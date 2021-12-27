@@ -10,3 +10,6 @@ Find and add posts in the FIT Resources [repo](https://github.com/noaa-fisheries
 
 Find and add posts in the FIT News [repo](https://github.com/noaa-fisheries-integrated-toolbox/news). See the [README](https://github.com/noaa-fisheries-integrated-toolbox/news#readme) for how to contribute. 
 
+> If you have questions or comments please [contact the FIT team](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/contact/). 
+
+

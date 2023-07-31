@@ -4,11 +4,7 @@
 
 This organization houses repositories for pages of the NOAA Fisheries Integrated Toolbox (FIT) - https://noaa-fisheries-integrated-toolbox.github.io/. All tool repositories can be found in the [FIT tools organization](https://github.com/nmfs-fish-tools). 
 
-> If you have questions or comments please [contact the FIT team](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/contact/). 
-
-## [Resources](https://noaa-fisheries-integrated-toolbox.github.io/resources/) 
-
-Find and add posts in the FIT Resources [repo](https://github.com/noaa-fisheries-integrated-toolbox/resources). See the [README](https://github.com/noaa-fisheries-integrated-toolbox/resources#readme) for how to contribute. 
+> If you have questions or comments, please [contact the FIT team](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/contact/).
 
 
 

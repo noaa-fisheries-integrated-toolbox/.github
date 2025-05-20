@@ -1,7 +1,7 @@
 <img align="right" src="https://raw.githubusercontent.com/nmfs-general-modeling-tools/nmfspalette/main/man/figures/noaa-fisheries-rgb-2line-horizontal-small.png" width="400" alt="NOAA Fisheries">  
 
 > [!Important]
-> The [NOAA Fisheries Integrated Toolbox](https://www.fisheries.noaa.gov/resource/tool-app/noaa-fisheries-integrated-toolbox) has moved! Repositories are now part of the [nmfs-ost organization](https://github.com/nmfs-ost).
+> The [NOAA Fisheries Integrated Toolbox](https://www.fisheries.noaa.gov/resource/tool-app/noaa-fisheries-integrated-toolbox) has moved! Repositories are now part of the [nmfs-ost organization](https://github.com/nmfs-ost), with the exception of the redirect pages and the [R universe config page](https://github.com/noaa-fisheries-integrated-toolbox/noaa-fisheries-integrated-toolbox.r-universe.dev)
 
 # The NOAA Fisheries Integrated Toolbox Organization
 
